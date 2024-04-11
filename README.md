@@ -1,16 +1,6 @@
-# to_do
+# To Do App
 
-A new Flutter project.
+This is a simple app with one page that store the tasks that you added or completed in your local database through Hive ...
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 App Image
+<img src="https://github.com/AhmedRamy20/To-Do/assets/103888249/569ffaf8-1eb5-4caf-a3e0-9a126cdf3f03" width=700 height=1400>
